@@ -1,3 +1,11 @@
+==========================================
+This is outdated version. 
+More up to date can be found at:
+
+[https://github.com/kszabelski/AzureWorkshopsFP-MS](https://github.com/kszabelski/AzureWorkshopsFP-MS)
+
+==========================================
+
 # Projekt treningowy do warsztatu "Wykorzystanie usług Azure do budowania skalowalnych systemów" 
 
 Warsztat dla: [Future Processing](https://www.future-processing.pl/)
